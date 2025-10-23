@@ -8,7 +8,7 @@ SUMMARY:Treino A: Peito & Tríceps
 DTSTART;TZID=America/Sao_Paulo:20251027T180000
 DTEND;TZID=America/Sao_Paulo:20251027T193000
 UID:treino-treino-a-peito--tríceps-smartfit-abc
-RRULE:FREQ=WEEKLY;UNTIL=20310101T025959Z;BYDAY=MO
+RRULE:FREQ=WEEKLY;UNTIL=20310101T025959Z;BYDAY=MO,TH
 DESCRIPTION:Dia de treino: Treino A: Peito & Tríceps
 LOCATION:Smart Fit - R. Professor José de Souza\, 1216 - Jardim Vinte e C
  inco de Agosto\, Duque de Caxias\, RJ - 25071-202
@@ -18,7 +18,7 @@ SUMMARY:Treino B: Costas & Bíceps
 DTSTART;TZID=America/Sao_Paulo:20251028T180000
 DTEND;TZID=America/Sao_Paulo:20251028T193000
 UID:treino-treino-b-costas--bíceps-smartfit-abc
-RRULE:FREQ=WEEKLY;UNTIL=20310101T025959Z;BYDAY=TU
+RRULE:FREQ=WEEKLY;UNTIL=20310101T025959Z;BYDAY=TU,FR
 DESCRIPTION:Dia de treino: Treino B: Costas & Bíceps
 LOCATION:Smart Fit - R. Professor José de Souza\, 1216 - Jardim Vinte e C
  inco de Agosto\, Duque de Caxias\, RJ - 25071-202
