@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Academia Treino ABC Rotativo//SmartFit//
-X-WR-CALNAME:Meu Treino ABC Rotativo
+X-WR-CALNAME:Treino ABC Rotativo
 X-WR-TIMEZONE:America/Sao_Paulo
 BEGIN:VEVENT
 SUMMARY:Treino A: Peito & Tríceps
